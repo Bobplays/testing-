@@ -1,1 +1,1 @@
-alert("bypassed xss")
+alert("sorry for interupting")
